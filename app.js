@@ -39,8 +39,3 @@ app.use(function(err, req, res, next) {
 });
 
 module.exports = app;
-
-
-
-# This is just a test
-# on the other note wait
